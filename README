@@ -1,0 +1,6 @@
+Slides for the Introduction to Concurrency talk given at Mixrank
+26 January 2015 to Types, Theorems, and Programming Languages.
+
+The talk was originally billed on meetup.com as "Introducing the
+Process Calculi: Formalisms for Concurrency", but there were a
+few too many process calculi to properly introduce them all.
